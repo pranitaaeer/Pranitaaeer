@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Pranita Aeer  
 
-<!--
-**pranitaaeer/Pranitaaeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer | BCA Student | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+🌟 I love building scalable web applications and exploring new technologies.  
+Currently pursuing **BCA (3rd Year)** and working on exciting **full-stack projects**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB(Atlas) 
+- **Tools & DevOps:** Git, GitHub, Docker, Kubernetes  
+- **Other Interests:** Teaching, Exploring AI tools  
+---
+
+## 📂 Projects  
+*(Check out my repositories for more projects!)*  
+
+---
+
+## 🌱 What I’m Currently Learning  
+- Advanced DevOps (CI/CD, Docker, Kubernetes)  
+- Building more full-stack applications  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: aeerpranita@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 🐙 [GitHub](https://github.com/pranitaaeer) 
+
+
