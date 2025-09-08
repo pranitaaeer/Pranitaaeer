@@ -28,7 +28,7 @@ Currently pursuing **BCA (3rd Year)** and working on exciting **full-stack proje
 
 ## 📫 Connect with Me  
 - 📧 Email: aeerpranita@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 💼 [LinkedIn](https://linkedin.com/in/pranitaaeer)  
 - 🐙 [GitHub](https://github.com/pranitaaeer) 
 
 
