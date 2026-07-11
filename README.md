@@ -1,42 +1,39 @@
 # 💫 About Me:
-👋 Hi, I'm Pranita Aeer, a MERN stack  Web Developer from Maharashtra, India.<br>
+👋 Hi, I'm Pranita Aeer, a MERN stack  Web Developer from Maharashtra, India.<br><br>
 🔭 Full Stack Web Applications using Next.js, React.js, Node.js, Express.js & MongoDB
 Building scalable and responsive web applications during my Web Development Internship <br>
-🌱 Currently Learning
-
-Next.js (App Router)
-TypeScript
-Redis
-Socket.io
-DevOps Fundamentals
+🌱 Currently Learning<br>
+Next.js (App Router)<br>
+TypeScript<br>
+Redis<br>
+Socket.io<br>
+DevOps Fundamentals<br>
 System Design<br>
 
 👯 Looking to Collaborate On
-
-Open Source Projects
-Full Stack MERN / Next.js Applications
+Open Source Projects<br>
+Full Stack MERN / Next.js Applications<br>
 AI-powered Web Applications<br>
 
-💬 Ask Me About
-
-JavaScript
-React.js
-Next.js
-Node.js
-Express.js
-MongoDB
-REST APIs
+💬 Ask Me About<br>
+JavaScript<br>
+React.js<br>
+Next.js<br>
+Node.js<br>
+Express.js<br>
+MongoDB<br>
+REST APIs<br>
 Authentication (JWT)<br>
 
-⚡ Fun Fact
+⚡ Fun Fact<br>
 I enjoy turning ideas into real-world applications and believe the best way to learn is by building projects.<br>
 
-🚀 Featured Projects
-💼 AI Interview Platform
-🛒 MERN E-Commerce Application
-💬 A Mystrymessage
-🧵 Threads Clone
-💼 Job Portal
+🚀 Featured Projects<br>
+💼 AI Interview Platform<br>
+🛒 MERN E-Commerce Application<br>
+💬 A Mystrymessage<br>
+🧵 Threads Clone<br>
+💼 Job Portal<br>
 
 
 
