@@ -48,9 +48,7 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranitaaeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitaaeer&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pranitaaeer&theme=tokyonight&hide_border=true"/>
 
 </div>
 
