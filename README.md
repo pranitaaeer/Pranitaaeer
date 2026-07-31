@@ -63,13 +63,7 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
+## 🏆 GitHub Trophies
 
-
----
-<div align="center">
-  <a href="https://github.com/pranitaaeer">
-    <img src="https://visitcount.itsvg.in/api?id=pranitaaeer&icon=2&color=5" alt="Visitor Count" />
-  </a>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=pranitaaeer&theme=tokyonight&no-frame=true&row=1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
