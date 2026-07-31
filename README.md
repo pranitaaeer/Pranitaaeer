@@ -57,14 +57,9 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pranitaaeer&icon=2&color=5" alt="Visitor Count" />
-  </a>
-</p>
-![](https://github-contributor-stats.vercel.app/api?username=Pranitaaeer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pranitaaeer&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pranitaaeer&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
