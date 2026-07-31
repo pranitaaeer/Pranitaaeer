@@ -30,6 +30,7 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 🚀 Featured Projects:<br><br>
 💼 AI Interview Platform<br>
+📓 Dev Journal<br>
 🛒 MERN E-Commerce Application<br>
 💬 A Mystrymessage<br>
 🧵 Threads Clone<br>
