@@ -60,8 +60,9 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pranitaaeer&theme=tokyo-night)
 
 ## 🏆 GitHub Trophies
 
