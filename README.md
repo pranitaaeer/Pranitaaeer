@@ -46,13 +46,13 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pranitaaeer&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranitaaeer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitaaeer&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitaaeer&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 <p align="center">
 
