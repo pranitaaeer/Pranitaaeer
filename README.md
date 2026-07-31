@@ -46,11 +46,6 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pranitaaeer&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <p align="center">
 
@@ -64,5 +59,9 @@ I enjoy turning ideas into real-world applications and believe the best way to l
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=pranitaaeer&theme=tokyonight&no-frame=true&row=1)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranitaaeer&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
