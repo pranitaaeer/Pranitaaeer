@@ -63,7 +63,7 @@
 ### AI & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode,jest" />
 </p>
 
 **AI Technologies:** Gemini API · Groq API · RAG · LLMs · ChromaDB · Embeddings · CLIP · Vector Databases
