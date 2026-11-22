@@ -1,40 +1,50 @@
 # 💫 About Me:
-👋 Hi, I'm Pranita Aeer, a MERN stack  Web Developer from Maharashtra, India.<br><br>
-🔭 Full Stack Web Applications using Next.js, React.js, Node.js, Express.js & MongoDB
-Building scalable and responsive web applications during my Web Development Internship <br><br>
-🌱 Currently Learning:<br><br>
-Next.js (App Router)<br>
-TypeScript<br>
-Redis<br>
-Socket.io<br>
-DevOps Fundamentals<br>
-System Design<br>
 
-👯 Looking to Collaborate On
-Open Source Projects:<br><br>
-Full Stack MERN / Next.js Applications<br>
-AI-powered Web Applications<br>
+👋 Hi, I'm Pranita Aeer, a **Full Stack Developer (MERN)** from Maharashtra, India — specializing in **AI-powered applications** and **Generative AI integrations**.
 
-💬 Ask Me About:<br><br>
-JavaScript<br>
-React.js<br>
-Next.js<br>
-Node.js<br>
-Express.js<br>
-MongoDB<br>
-REST APIs<br>
-Authentication (JWT)<br>
+🔭 **What I'm building:**
+Full-stack web applications with **Next.js, React.js, Node.js, Express.js, MongoDB, and FastAPI** — currently working on production-grade platforms as a **Full Stack Developer Intern** at The RD Group of Industries.
 
-⚡ Fun Fact:<br><br>
-I enjoy turning ideas into real-world applications and believe the best way to learn is by building projects.<br>
+🌱 **Currently Learning:**
+- Next.js (App Router)
+- TypeScript
+- Redis
+- Socket.io
+- DevOps Fundamentals
+- System Design
+- RAG Systems & Vector Databases
 
-🚀 Featured Projects:<br><br>
-💼 AI Interview Platform<br>
-📓 Dev Journal<br>
-🛒 MERN E-Commerce Application<br>
-💬 A Mystrymessage<br>
-🧵 Threads Clone<br>
-💼 Job Portal<br>
+👯 **Looking to Collaborate On:**
+- Open Source Projects
+- Full Stack MERN / Next.js Applications
+- AI-powered Web Applications
+- RAG-based Intelligent Systems
+
+💬 **Ask Me About:**
+- JavaScript / TypeScript
+- React.js / Next.js
+- Node.js / Express.js / FastAPI
+- MongoDB / PostgreSQL / ChromaDB
+- REST APIs & JWT Authentication
+- Gemini API / Groq API / LLM Integration
+- Prompt Engineering & Embeddings
+- Vector Databases & RAG Pipelines
+
+⚡ **Fun Fact:**
+I enjoy turning ideas into real-world applications and believe the best way to learn is by building projects — from AI interview platforms to financial ledgers with ACID compliance.
+
+🚀 **Featured Projects:**
+
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| 💼 **AxiomLedger** | React, TypeScript, Node.js, PostgreSQL, Redis, Groq AI, Docker | Double-entry financial ledger with ACID-compliant transactions & AI risk engine |
+| 📓 **DocuChat AI** | Next.js, MERN, ChromaDB, Gemini API, TypeScript | RAG pipeline for intelligent Q&A over PDFs — LLM responses under 1.5s |
+| 🛒 **E-Commerce Platform** | MERN, TypeScript, Redux, Redis, Stripe, Groq API | Scalable platform with 60% reduced DB latency via Redis caching |
+| 💬 **A Mystrymessage** | MERN Stack | Anonymous messaging platform |
+| 🧵 **Threads Clone** | Next.js, TypeScript | Social media clone with modern UI |
+| 💼 **Job Portal** | MERN Stack | Full-featured job listing & application platform |
+
+📫 **Reach me at:** aeerpranita@gmail.com
 
 
 
