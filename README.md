@@ -89,7 +89,13 @@ A full-stack e-commerce application featuring product management, authentication
   </a>
 </p>
 
-### 2. DocuChat AI
+### 2. AxiomLedger
+
+A production-grade financial infrastructure platform featuring a double-entry ledger, AI-powered fraud detection, and automated bank reconciliation to ensure 100% transactional accuracy.
+
+**Tech Stack:** React · Node.js · Express.js · PostgreSQL · Redis · Groq AI (LLaMA 3) · BullMQ · TypeScript
+
+### 3. DocuChat AI
 
 An AI-powered document assistant that allows users to upload PDFs and interact with their content using Retrieval-Augmented Generation (RAG).
 
