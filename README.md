@@ -74,26 +74,17 @@
 
 ## 🚀 Featured Projects
 
-### 1. E-Commerce Website
-
-A full-stack e-commerce application featuring product management, authentication, shopping functionality and AI-powered chatbot integration.
-
-**Tech Stack:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB · Firebase · Stripe · Redis · Groq API
-
-<p>
-  <a href="https://github.com/pranitaaeer/ECommerceWebsite">
-    <img src="https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/pranitaaeer/ECommerceWebsite_frontend">
-    <img src="https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-### 2. AxiomLedger
+### 1. AxiomLedger
 
 A production-grade financial infrastructure platform featuring a double-entry ledger, AI-powered fraud detection, and automated bank reconciliation to ensure 100% transactional accuracy.
 
 **Tech Stack:** React · Node.js · Express.js · PostgreSQL · Redis · Groq AI (LLaMA 3) · BullMQ · TypeScript
+
+### 2. E-Commerce Website
+
+A full-stack e-commerce application featuring product management, authentication, shopping functionality and AI-powered chatbot integration.
+
+**Tech Stack:** React.js · Redux Toolkit · Node.js · Express.js · MongoDB · Firebase · Stripe · Redis · Groq API
 
 ### 3. DocuChat AI
 
